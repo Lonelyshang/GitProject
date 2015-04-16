@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b272fe979c2073642ad7f7cd948e5830
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - airplne: {fileID: 100012, guid: 36812c23a70454d4da8c7ebbdd1636f1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

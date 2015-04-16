@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: acebac9ee604ff44bbc2643c43694d42
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ariplne: {fileID: 100012, guid: 41fadbebf94826d4f9678e6c8f18ca53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

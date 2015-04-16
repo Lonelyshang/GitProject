@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 08fdeb65a48cbdc42b37535d9612e569
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audio: {instanceID: 0}
+  - gobj_boom: {fileID: 100000, guid: bd9703df67181024fbc373c225c8d6cd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

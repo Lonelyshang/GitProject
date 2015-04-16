@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f9cfe1e14a09eae47a94a067a48c1c26
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prb_up: {instanceID: 0}
+  - prb_sp1: {instanceID: 0}
+  - prb_sp2: {instanceID: 0}
+  - prb_zd_up: {instanceID: 0}
+  - audi: {fileID: 8300000, guid: e62df0e888f044c45937bde6eb86e12e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

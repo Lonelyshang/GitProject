@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 94d3570ab5a30084286946281be98898
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stone: {fileID: 100000, guid: 8445b737d9ceb8d43b24fd254f322e98, type: 3}
+  - gobj_boom: {fileID: 100000, guid: 06b2b3f9c04906e4eb1b5c3a0930f363, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

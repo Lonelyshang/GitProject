@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8efa936fb8123994f94f545d959f09f7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prb_emy_zzddown: {fileID: 100000, guid: 2d16975c4c5b5ff40b54d470f0c7e2a5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
